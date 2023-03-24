@@ -29,3 +29,9 @@ void input() {		//procedure input
 		cin >> arr[i];										//menyimpan nilai data n kedalam array arr
 	}
 }
+
+
+void insertionsort() {			//prosedure insertionsort
+	
+	
+}
