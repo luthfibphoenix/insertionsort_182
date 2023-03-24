@@ -58,5 +58,9 @@ void insertionsort() {			//prosedure insertionsort
 }
 
 void dislpay() {			//procedure display
+	cout << endl;						//output batis kosong
+	cout << "=================================" << endl;	//output ke layar
+	cout << "Element Array yang telah tersusun" << endl;	//output ke layar
+	cout << "=================================" << endl;	//output ke layar
 
 }
