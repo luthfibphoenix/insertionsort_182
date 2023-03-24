@@ -33,5 +33,6 @@ void input() {		//procedure input
 
 void insertionsort() {			//prosedure insertionsort
 	
-	
+	int temp;					//membuat variabel data temporer atau penyimpanan sementara
+	int j;						//membuat variabel j sebagai penanda
 }
