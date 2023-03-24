@@ -56,3 +56,7 @@ void insertionsort() {			//prosedure insertionsort
 		}
  	}
 }
+
+void dislpay() {			//procedure display
+
+}
