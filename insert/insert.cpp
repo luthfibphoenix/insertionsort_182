@@ -50,6 +50,7 @@ void insertionsort() {			//prosedure insertionsort
 		}
 		arr[j + 1] = temp;				//5. simpan nilai temp ke dalam arr[j+1]
 
+		cout << "\nPass" << i << ": ";	//output ke layar
 		
 		}
  	}
