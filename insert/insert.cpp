@@ -73,4 +73,5 @@ int main()
 {
 	input();			//memanggil input
 	insertionsort();	//memanggil insertionsort
+	dislpay(); 			//memanggil display
 }
