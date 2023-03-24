@@ -71,5 +71,6 @@ void dislpay() {			//procedure display
 
 int main()
 {
-	input();		//memanggil input
+	input();			//memanggil input
+	insertionsort();	//memanggil insertionsort
 }
